@@ -57,4 +57,3 @@ function hasName(obj:any): obj is {name: string}
 {
 	return !!obj && typeof obj === "object" && "name" in obj
 }
-
