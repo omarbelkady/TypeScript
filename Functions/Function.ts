@@ -1,4 +1,3 @@
-
 interface Indiv{
 	fName: string;
 	lName: string;
